@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["impl_extern_trait"],"macro":["impl_trait"],"mod":["irq","klib","mem","time"],"struct":["PhysAddr","VirtAddr"],"trait":["Klib"],"type":["AxResult","IrqHandler"]};
